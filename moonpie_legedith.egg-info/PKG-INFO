@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: moonpie-legedith
+Version: 0.0.1
+Summary: Because I dont't wanna use git anymore
+Home-page: https://github.com/legedith
+Author: legedith
+Author-email: jatindehmiwal@gmail.com
+License: UNKNOWN
+Description: # moonpie
+        
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent

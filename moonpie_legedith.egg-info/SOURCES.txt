@@ -1,0 +1,8 @@
+setup.py
+bin/moonpie
+moonpie/__init__.py
+moonpie/terminal.py
+moonpie_legedith.egg-info/PKG-INFO
+moonpie_legedith.egg-info/SOURCES.txt
+moonpie_legedith.egg-info/dependency_links.txt
+moonpie_legedith.egg-info/top_level.txt

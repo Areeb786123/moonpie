@@ -79,4 +79,3 @@ def destination():
     os.system('git remote add origin '+msg)
     #git remote add origin https://github.com/Legedith/moonpie.git
     os.system('figlet -c Destination Added')
-choice()
