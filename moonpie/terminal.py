@@ -77,5 +77,4 @@ def destination():
     print()
     msg = input('     Enter Destination: ')
     os.system('git remote add origin '+msg)
-    #git remote add origin https://github.com/Legedith/moonpie.git
     os.system('figlet -c Destination Added')
